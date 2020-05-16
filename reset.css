@@ -12,7 +12,7 @@ html, body{
 }
 
 ::selection{
-  background-color: #eeac25;
+  background-color: #eeac25; /*Change with your custom color*/
 }
 
 html, body, div, span, applet, object, iframe,

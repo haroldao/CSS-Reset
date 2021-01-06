@@ -1,5 +1,5 @@
 html, body{
-    font-size: 62,5%; /*So by default, your font-size is 10px instead of 16px*/
+    font-size: 62.5%; /*So by default, your font-size is 10px instead of 16px*/
 }
 
 *, *::before, *::after {
